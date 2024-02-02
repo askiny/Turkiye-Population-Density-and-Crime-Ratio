@@ -9,5 +9,5 @@ In this project, population density maps will be made on the basis of provinces 
 
 # Libraries Used
 
-- Data Proccesing: Pandas, Json, Requests, Openpyxl, Geopandas, Unidecode,
+- Data Proccesing: Pandas, Json, Requests, Openpyxl, Geopandas, Unidecode
 - Maps: Matplotlib, Mapclassify
